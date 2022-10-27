@@ -1,0 +1,25 @@
+body {background-color:rgb(193, 193, 248)
+
+}
+h1{font-size: 50px;
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;}
+h2 {
+    font-weight: 20em;;
+}
+.summary p:first-of-type{
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+}
+.preamble h3 {
+    font-size: medium;
+}
+.participation h3 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 10px;;
+}
+
+
+.design-selection li *a :focus {
+background-color: #00ff73;
+}
